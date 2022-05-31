@@ -48,14 +48,6 @@ cout << r <<endl;
 
 r = 0;
 
-/*
-for (int k = 1; k< 5 ;k++)
-{
-  r =  r + cos( 2* k*pi/5) * log(  abs( 2*sin(k*pi/5) ) );
-}
-
-cout << r << endl;
-*/
 return 0;
 
 }
