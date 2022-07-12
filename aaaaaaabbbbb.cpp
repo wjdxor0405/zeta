@@ -38,7 +38,7 @@ double y = cos(4*pi/5) * log( 2 *sin(2*pi/5));
 double a = sin(2*pi/5) * 3 * pi / 10;
 double b = sin(4*pi/5) * pi / 10;
 
-r = x + y ;//- a - b;
+r = x + y ;
 
 r = 2 * r;
 
